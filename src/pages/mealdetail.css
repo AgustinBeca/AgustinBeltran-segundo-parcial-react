@@ -1,0 +1,18 @@
+.meal {
+  padding: 0 30px;
+}
+
+.meal img {
+  width: 300px;
+  height: auto;
+}
+
+.meal-title {
+  font-family: "Times New Roman", Times, serif;
+  color: brown;
+}
+
+.meal-instructions {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}

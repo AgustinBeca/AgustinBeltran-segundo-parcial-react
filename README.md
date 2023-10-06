@@ -1,9 +1,9 @@
 # Parcial Segundo Corte Desarrollo Web 🚀
 
 
-Nombre completo estudiante :
+Nombre completo estudiante : Agustin Beltran Casas
 
-Codigo :
+Codigo : 0000201162
 
 **Descripción del Problema:**
 

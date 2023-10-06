@@ -1,10 +1,10 @@
 import React from 'react';
 import MealPreviwGrid from '../components/mealPreviwGrid';
 
-function Home() {
+function Home(props) {
 	return (
 		<div className='page'>
-			<MealPreviwGrid />
+			<MealPreviwGrid input={props.input} />
 		</div>
 	);
 }
